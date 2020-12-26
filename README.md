@@ -1,7 +1,9 @@
 # Simple Manajemen Pegawai dengan CRUD
 ------------
+## To Do List
+- Report kurang maksimal
+------------
 ## Features
-
 - manajemen pegawai
 - manajemen gaji
 - manajemen bonus
