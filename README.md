@@ -12,7 +12,7 @@
 -- bonus dapat di export ke html, excel, atau pdf, text, json, csv
 -----------
 ## Plugin
--  [Kartik](https://plugins.krajee.com/file-input "Kartik")
+-  [Kartik](https://plugins.krajee.com/ "Kartik")
 -- Select2 js
 -- gridview
 -- widget
